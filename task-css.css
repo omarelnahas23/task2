@@ -1,0 +1,62 @@
+.main
+{
+    background-image: url("autumn.jpg");
+    font-size: x-large;
+    color: blanchedalmond;
+
+}
+.form
+{
+    padding-bottom: 1%;
+    background-color: blanchedalmond;
+}
+.heading
+{
+    color: blue;
+}
+.heading2
+{
+color: blanchedalmond;
+font-size: xx-large;
+}
+.btn
+{
+    box-sizing: content-box; border: darkblue; border-style: solid;
+    background-color: blue;
+    font-size: large;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-shadow: cornflowerblue;
+    text-decoration-style: solid;
+    color:cornsilk
+}
+.paragraph
+{
+    color: blanchedalmond; 
+    font-style: italic;
+}
+.sidebar
+{
+        float: right;
+
+}
+.sidebar a
+{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.sidebar a.active
+{
+    background-color: gray;
+}
+.sidebar a:hover
+{
+    background-color: wheat;
+    color: red;
+    font-style: italic;
+    font-size: larger;
+}
+.btn p:hover
+{
+    background-color: gray;
+}
